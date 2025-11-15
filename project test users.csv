@@ -1,0 +1,6 @@
+"id";"name";"email";"username";"phone_number";"hashed_password";"role"
+1;"ragav";"ragav@gmail.com";"ragav";"789789879";"bf950d859cf1647674923886e8efb09b19ac4184bad0faa00426fbca6e70cd8e";"Client"
+2;"raghav";"raghav@gmail.cpom";"ragav89";"4566522233";"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92";"Client"
+3;"ragavendiran";"ragav22@gmail.com";"ragav22";"7555633312";"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92";"Support"
+4;"raghav";"ragav@123";"raghav89";"3224563221";"5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5";"Client"
+5;"Toasty";"toasty123@gmail.com";"toasty@123";"9867542310";"221b37fcdb52d0f7c39bbd0be211db0e1c00ca5fbecd5788780463026c6b964b";"Client"

@@ -1,0 +1,10 @@
+create database project;
+use project;
+create table user(id int AUto_increment primary key, name varchar(255) not NULL, email varchar(255) not NULL unique,username varchar(255) not NULL unique ,phone_number varchar(15) not NULL, hashed_password varchar(255) NOT NULL, role varchar(15) NOT NULL);
+show tables;
+desc user_detail;
+create table queries(query_id int auto_increment primary key, email varchar(255), phone_number varchar(20), query_title varchar(255), query_desc text, created_on datetime default current_timestamp, closed_on datetime, state text);
+show tables;
+desc query;
+select * from user;
+select * from queries;
